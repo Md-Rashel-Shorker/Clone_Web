@@ -1,0 +1,562 @@
+.logo {
+    font-family: sans-serif;
+    width: 25%;
+    height: 10vh;
+    float: left;
+}
+
+.menum {
+    width: 75%;
+    height: 10vh;
+    float: right;
+}
+
+.menu {
+    font-family: sans-serif;
+    width: 70%;
+    height: 10vh;
+    margin: 0;
+    float: left;
+}
+
+.menu button {
+    font-size: 16px;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 10px;
+    padding: 10px;
+    background: white;
+    border: 0;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.menu button:hover {
+    background-color: rgb(225, 225, 225)
+}
+
+.menulogo {
+    font-family: sans-serif;
+    width: 30%;
+    height: 10vh;
+    float: right;
+    display: flex;
+    margin-top: 5px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.menulogo button {
+    font-size: 14px;
+    margin-right: 10px;
+    height: 30px;
+    margin-top: 3vh;
+    background: white;
+    border: 0;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.menulogo button:hover {
+    background-color: rgb(225, 225, 225)
+}
+
+.maincon1 {
+    font-family: sans-serif;
+    width: 60%;
+    height: 70%;
+    float: left;
+    text-align: left;
+
+}
+
+.maincon1 h1 {
+    font-size: 60px;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-bottom: 0;
+    margin-top: 10vh;
+    text-align: left;
+
+}
+
+.maincon1 p {
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 0;
+    font-size: 20px;
+}
+
+.maincon1 button {
+    text-align: left;
+    margin: 0;
+    margin-left: 20vh;
+}
+
+.btn1 {
+    font-size: 16px;
+    margin-right: 20px;
+    padding: 15px 30px;
+    background: rgb(54, 54, 209);
+    color: white;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.maincon1 button:hover {
+    background-color: rgb(233, 202, 202);
+}
+
+.btn2 {
+    font-size: 16px;
+    padding: 15px 30px;
+    background: rgb(235, 235, 246);
+    color: blue;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.maincon {
+    width: 40%;
+    height: 70%;
+    float: right;
+    text-align: center;
+}
+
+.maincon img {
+    margin-top: 5vh;
+    height: 90%;
+    width: 70vh;
+}
+
+.fin img {
+    width: 100%;
+}
+
+.ripu {
+    margin-top: 20px;
+    display: flex;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    font-family: sans-serif;
+}
+
+.ripu li {
+    list-style-type: none;
+    text-align: center;
+    font-size: 16px;
+}
+
+.ripu li p {
+    font-size: 14px;
+}
+
+.rai {
+
+    padding: 25 70;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    border-color: black;
+}
+
+.ide {
+    padding: 25 70;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    border-color: black;
+}
+
+.pro {
+    padding: 25 70;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    border-color: black;
+}
+
+.uni {
+    padding: 25 70;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 1px solid transparent;
+    border-color: black;
+}
+
+.ultra {
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 12vh;
+}
+
+.ultra img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.upman {
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 5vh;
+    font-family: sans-serif;
+}
+
+.upcm {
+    float: left;
+    width: 50%;
+    height: 8vh;
+}
+
+.exp {
+    float: right;
+    width: 50%;
+    height: 8vh;
+    text-align: right;
+}
+
+.exp button {
+    font-size: 16px;
+    margin: 0;
+    padding: 10;
+    background: rgb(87, 87, 229);
+    color: white;
+    border: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.exp button:hover {
+    background-color: rgb(226, 154, 233);
+}
+
+.game {
+    position: relative;
+    top: 10vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+.imgg {
+    position: relative;
+    bottom: 5vh;
+    border-radius: 10px;
+    width: 60vh;
+    transition: transform 0.5s;
+}
+
+.imgg:hover {
+    transform: translateY(-10px);
+}
+
+
+.game h3 {
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.mov1 {
+    color: black;
+    display: flex;
+    position: relative;
+    top: 10vh;
+    height: 10vh;
+    font-family: sans-serif;
+
+}
+
+.mov1 button {
+    font-size: 16px;
+    margin: 0;
+    padding: 15px 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background: rgb(198, 198, 237);
+    color: black;
+    border: 0;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.mov1 button:hover {
+    background-color: rgb(252, 252, 252);
+}
+
+.mov2 {
+    display: flex;
+    position: relative;
+    top: 10vh;
+    height: 10vh;
+    font-family: sans-serif;
+}
+
+.mov2 button {
+    font-size: 16px;
+    margin: 0;
+    padding: 15px 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background: rgb(198, 198, 237);
+    color: black;
+    border: 0;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+.mov2 button:hover {
+    background-color: rgb(252, 252, 252);
+}
+
+.Lrn {
+    list-style-type: none;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 25vh;
+    font-family: sans-serif;
+}
+
+.Lrnab {
+    float: left;
+    width: 50%;
+    height: 8vh;
+}
+
+.Lrnblog {
+    float: right;
+    width: 50%;
+    height: 8vh;
+    text-align: right;
+}
+
+.Lrnblog button {
+    font-size: 12px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 12px 20px;
+    background: rgb(238, 238, 251);
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.Lrnblog button:hover {
+    background-color: rgb(159, 154, 160);
+}
+
+.idomain {
+    position: relative;
+    top: 5vh;
+    width: 100%;
+    height: 70vh;
+    display: flex;
+
+}
+
+.ido {
+    width: 65%;
+    margin-left: 20vh;
+    margin-right: 5vh;
+    height: 100%;
+}
+
+.ido img {
+    height: 70vh;
+    width: 100%;
+}
+
+.ido2 {
+    width: 35%;
+    margin-right: 20vh;
+    height: 70vh;
+}
+
+.idopo {
+    margin-bottom: 5vh;
+}
+
+.idopo img {
+    width: 70vh;
+    height: 30vh;
+}
+
+.idodo img {
+    width: 70vh;
+}
+
+.fpjmain {
+    position: relative;
+    top: 10vh;
+    display: flex;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    font-family: sans-serif;
+}
+
+.fpj {
+    width: 50%;
+}
+
+.fpjfe {
+    width: 50%;
+    text-align: right;
+}
+
+.fpjfe button {
+    font-size: 12px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 8px 30px;
+    background: rgb(238, 238, 251);
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.fpjfe button:hover {
+    background-color: rgb(159, 154, 160);
+}
+
+.gmmain {
+    list-style-type: none;
+    color: rebeccapurple;
+    display: flex;
+    position: relative;
+    top: 15vh;
+    margin-left: 20vh;
+    width: 100%;
+    height: auto;
+}
+
+.game1 {
+    width: 30%;
+    margin: -2vh;
+}
+
+.imgg1 {
+    width: 55vh;
+    transition: transform 0.5s;
+}
+
+.imgg1:hover {
+    transform: translateY(-10px);
+}
+
+.gmmain2 {
+    list-style-type: none;
+    color: rebeccapurple;
+    display: flex;
+    position: relative;
+    top: 25vh;
+    margin-left: 20vh;
+    width: 100%;
+    height: auto;
+}
+
+.game2 {
+    width: 30%;
+    margin: -2vh;
+}
+
+.exppro {
+    text-align: center;
+    position: relative;
+    margin-top: 30vh;
+}
+
+.exppro button {
+    font-size: 12px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding: 15px 35px;
+    background: rgb(238, 238, 251);
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.exppro button:hover {
+    background-color: rgb(159, 154, 160);
+}
+
+.submain {
+    height: 25vh;
+    width: 100%;
+    position: relative;
+    top: 15vh;
+    display: flex;
+}
+
+.subtext {
+    font-family: sans-serif;
+    height: 25vh;
+    width: 40%;
+    margin-left: 20vh;
+    background-color: rgba(72, 89, 229, 0.06);
+    border-color: rgba(72, 89, 229, 0.15);
+}
+
+.subtext p {
+    font-size: 15px;
+    color: blue;
+}
+
+.subform {
+    font-family: sans-serif;
+    width: 40%;
+    margin-right: 20vh;
+    text-align: right;
+    background-color: rgba(72, 89, 229, 0.06);
+    border-color: rgba(72, 89, 229, 0.15);
+}
+
+.subform input,
+button {
+    margin-top: 10vh;
+}
+
+.foot {
+    font-family: sans-serif;
+    display: flex;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+.foot a {
+    text-decoration: none;
+}
+
+.company {
+    width: 40vh;
+}
+
+.company button {
+    background: rgb(54, 54, 209);
+    color: white;
+    border: 0;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.help {
+    width: 40vh;
+}
+
+.information {
+    width: 40vh;
+}
+
+.resources {
+    width: 40vh;
+}
+
+.idea {
+    width: 40vh;
+}
